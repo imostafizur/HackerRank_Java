@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\mosta\Desktop\HackerRank\.metadata\.plugins\org.eclipse.jdt.core
+1477719314.index
+828260013.index
+2458299000.index
+2196199803.index
+786658244.index
